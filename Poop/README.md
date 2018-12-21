@@ -9,3 +9,7 @@ You ask poop. I ask why not. we will try to project a 3D model of poop on top of
 * Activate Vuforia support settings in Player Selecting
 ![](images/VuforiaSettings.JPG)
 * Delete default camera and use AR Camera from game objects.
+* Login Vuforia https://developer.vuforia.com/home-page
+* Develop License Key
+![](images/developkey.JPG)
+* Copy License Key and paste in AR Camera vuforia configuration settings 
