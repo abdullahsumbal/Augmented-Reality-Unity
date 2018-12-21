@@ -9,3 +9,5 @@ This project contains multiple unity Augmented Reality Related projects. The ste
 The following are the list of AR projects.
 
 ### 1. Poop
+Project a 3D model of poop on top of an image target
+![](Poop/images/3Dpoop.JPG)
